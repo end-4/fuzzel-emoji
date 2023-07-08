@@ -1,2 +1,2 @@
 # fuzzel-emoji
-Emoji picker. based on wofi-emoji.
+Emoji picker. literally wofi-emoji but use fuzzel instead.
